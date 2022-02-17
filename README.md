@@ -1,4 +1,4 @@
-# OOP e SQL
+# OOP & SQL
 
 
 - Primary key, foreign key
